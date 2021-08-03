@@ -1,0 +1,8 @@
+http://autodiscover.uy.edu.mm
+http://mail.uy.edu.mm
+http://uyr.uy.edu.mm
+http://www.uy.edu.mm
+https://uyr.uy.edu.mm
+https://uyr.uy.edu.mm:8000
+https://www.uy.edu.mm
+https://www.uy.edu.mm:8443
